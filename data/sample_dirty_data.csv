@@ -1,0 +1,6 @@
+Employee ID,Join Date,Salary$,Age ,is Active,Department,Duplicate Salary
+101,2020-01-15,70000,25,True,Sales,70000
+102,2021-03-22,80000,30,False,Sales,80000
+103,2020-01-15,70000,25,True,Sales,70000
+104,,90000,40,True,Sales,90000
+105,2022-07-10,80000,30,False,Sales,80000
